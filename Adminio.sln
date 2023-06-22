@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adminio.Web", "Adminio\Adminio.Web\Adminio.Web.csproj", "{FD92717E-F0B6-4578-B20C-2007A1515152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD92717E-F0B6-4578-B20C-2007A1515152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD92717E-F0B6-4578-B20C-2007A1515152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD92717E-F0B6-4578-B20C-2007A1515152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD92717E-F0B6-4578-B20C-2007A1515152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {656E5318-A6CF-4734-9527-EC118D77BBB0}
+	EndGlobalSection
+EndGlobal
